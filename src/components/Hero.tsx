@@ -3,7 +3,7 @@ import { ArrowRight, Sparkles } from "lucide-react";
 
 const Hero = () => {
   return (
-    <section className="relative py-8 md:py-16 overflow-hidden">
+    <section className="relative pt-8 md:pt-16 overflow-hidden">
       {/* Background Gradient */}
       <div className="absolute inset-0 opacity-50 bg-[hsl(var(--gradient-subtle))]" />
 
